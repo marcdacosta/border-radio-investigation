@@ -130,47 +130,47 @@ The following provides a summary of the defense companies that are active along 
 ### Index of companies experimenting along border
 |Company                                    |Website                                                                         |
 |-------------------------------------------|--------------------------------------------------------------------------------|
-|The Boeing Company                         |[https://www.boeing.com/defense/missile-defense/ground-based-midcourse/index.page]()|
-|Rockwell Collins, Inc.                     |[https://www.rockwellcollins.com/Products-and-Services/Defense/Targeting.aspx]()    |
-|ELTA North America                         |[https://www.nextgenborder.com/ ]()                                                 |
-|SkySafe, Inc.                              |[https://www.skysafe.io/ ]()                                                        |
-|Leonardo DRS                               |[https://www.leonardodrs.com/]()                                                    |
-|Northrop Grumman Systems Corporation       |[https://www.northropgrumman.com ]()                                                |
-|Raytheon Missile Systems                   |[https://www.raytheon.com/capabilities/sensors]()                                   |
-|Lockheed Martin Corporation                |[https://www.lockheedmartin.com/en-us/index.html ]()                                |
-|Harris Corporation                         |[https://www.harris.com/what-we-do/strategic-tactical-and-maritime-satcom]()        |
-|United Technologies Corporation            |[https://www.utc.com]()                                                             |
-|BAE Systems                                |[https://www.baesystems.com/]()                     |
-|Plextek Ltd                                |[https://www.plextek.com/]()                                                        |
-|ReconRobotics, Inc.                        |[https://reconrobotics.com/]()                                                      |
-|Fenix Group, Inc.                          |[https://fenixgroup.io/ ]()                                                         |
-|TrellisWare Technologies                   |[https://www.trellisware.com/]()                                                    |
-|SRC, Inc.                                  |[https://www.srcinc.com/ ]()                                                        |
-|AeroVironment, Inc.                        |[https://www.avinc.com/ ]()                                                         |
-|Mustang Technology Group, LP               |[https://www2.l3t.com/mustangtechnology/]()                                         |
-|IMSAR LLC                                  |[https://www.imsar.com/]()                                                          |
-|BOOZ ALLEN HAMILTON                        |[https://www.boozallen.com/markets/defense-and-intelligence.html]()                 |
-|General Atomics Aeronautical Systems, Inc. |[http://www.ga-asi.com]()                                                           |
-|Echodyne Corp.                             |[https://echodyne.com/]()                                                           |
-|AKELA Inc.                                 |[https://akelainc.com/]()                                                           |
-|Lociva                                     |[https://www.lociva.com/]()                                                         |
-|Applied Research Associates, Inc           |[https://www.ara.com/]()                                                            |
-|Fortem Technologies, Inc.                  |[https://fortemtech.com/]()                                                         |
-|Ultra Electronics Advanced Tactical Systems|[https://www.ultra-electronics.com/ats]()                                           |
-|Swarm Technologies, Inc.                   |[https://www.swarm.space/]()                                                        |
-|GIRD Systems, Inc.                         |[https://www.girdsystems.com/]()                                                    |
-|The MITRE Corporation                      |[https://www.mitre.org/]()                                                          |
-|Alion Science and Technology               |[https://www.alionscience.com/]()                                                   |
-|General Dynamics                           |[https://gdmissionsystems.com/command-and-control]()                                |
-|NIITEK Inc.                                |[https://www.chemring.co.uk/what-we-do/sensors-and-information/counter-explosive-hazard/ied-detection]()|
-|Oceus Networks Inc.                        |[https://www.oceusnetworks.com/xiphos-micro/]()                                     |
-|SAIC                                       |[https://www.saic.com/]()                                                           |
-|Thales Defense & Security Inc              |[https://www.thalesdsi.com/our-services/]()                                         |
-|C Speed LLC                                |[http://www.cspeed.com/radar]()                                                     |
-|Persistent Systems LLC                     |[https://www.persistentsystems.com/]()                                              |
-|Applied Physical Sciences Corp.            |[https://www.aphysci.com/]()                                                        |
-|Ball Aerospace                             |[https://www.ball.com/aerospace/markets-capabilities/markets/defense-intelligence/antenna-systems]()|
-|IDS Ingegneria dei Sistemi SpA             |[https://www.idscorporation.com/]()                                                 |
-|Silvus Technologies, Inc.                  |[https://silvustechnologies.com/applications/military/]()                           |
-|TCOM, L.P.                                 |[https://tcomlp.com/aerostat-platforms/strategic-class-aerostat-systems-2/]()       |
-|Teledyne Scientific Company                |[http://www.teledyne-si.com/products-and-services]()                                |
+|The Boeing Company                         |[https://www.boeing.com/defense/missile-defense/ground-based-midcourse/index.page](https://www.boeing.com/defense/missile-defense/ground-based-midcourse/index.page)|
+|Rockwell Collins, Inc.                     |[https://www.rockwellcollins.com/Products-and-Services/Defense/Targeting.aspx](https://www.rockwellcollins.com/Products-and-Services/Defense/Targeting.aspx)    |
+|ELTA North America                         |[https://www.nextgenborder.com/ ](https://www.nextgenborder.com)                                                 |
+|SkySafe, Inc.                              |[https://www.skysafe.io/ ](https://www.skysafe.io)                                                        |
+|Leonardo DRS                               |[https://www.leonardodrs.com/](https://www.leonardodrs.com)                                                    |
+|Northrop Grumman Systems Corporation       |[https://www.northropgrumman.com ](https://www.northropgrumman.com)                                                |
+|Raytheon Missile Systems                   |[https://www.raytheon.com/capabilities/sensors](https://www.raytheon.com/capabilities/sensors)                                   |
+|Lockheed Martin Corporation                |[https://www.lockheedmartin.com/en-us/index.html ](https://www.lockheedmartin.com/en-us/index.html)                                |
+|Harris Corporation                         |[https://www.harris.com/what-we-do/strategic-tactical-and-maritime-satcom](https://www.harris.com/what-we-do/strategic-tactical-and-maritime-satcom)        |
+|United Technologies Corporation            |[https://www.utc.com](https://www.utc.com)                                                             |
+|BAE Systems                                |[https://www.baesystems.com/](https://www.baesystems.com/)                     |
+|Plextek Ltd                                |[https://www.plextek.com/](https://www.plextek.com/)                                                        |
+|ReconRobotics, Inc.                        |[https://reconrobotics.com/](https://reconrobotics.com/)                                                      |
+|Fenix Group, Inc.                          |[https://fenixgroup.io/ ](https://fenixgroup.io)                                                         |
+|TrellisWare Technologies                   |[https://www.trellisware.com/](https://www.trellisware.com)                                                    |
+|SRC, Inc.                                  |[https://www.srcinc.com/ ](https://www.srcinc.com/)                                                        |
+|AeroVironment, Inc.                        |[https://www.avinc.com/ ](https://www.avinc.com)                                                         |
+|Mustang Technology Group, LP               |[https://www2.l3t.com/mustangtechnology/](https://www2.l3t.com/mustangtechnology)                                         |
+|IMSAR LLC                                  |[https://www.imsar.com/](https://www.imsar.com)                                                          |
+|BOOZ ALLEN HAMILTON                        |[https://www.boozallen.com/markets/defense-and-intelligence.html](https://www.boozallen.com/markets/defense-and-intelligence.html)                 |
+|General Atomics Aeronautical Systems, Inc. |[http://www.ga-asi.com](http://www.ga-asi.com)                                                           |
+|Echodyne Corp.                             |[https://echodyne.com/](https://echodyne.com/)                                                           |
+|AKELA Inc.                                 |[https://akelainc.com/](https://akelainc.com/)                                                           |
+|Lociva                                     |[https://www.lociva.com/](https://www.lociva.com)                                                         |
+|Applied Research Associates, Inc           |[https://www.ara.com/](https://www.ara.com/)                                                            |
+|Fortem Technologies, Inc.                  |[https://fortemtech.com/](https://fortemtech.com/)                                                         |
+|Ultra Electronics Advanced Tactical Systems|[https://www.ultra-electronics.com/ats](https://www.ultra-electronics.com/ats)                                           |
+|Swarm Technologies, Inc.                   |[https://www.swarm.space/](https://www.swarm.space/)                                                        |
+|GIRD Systems, Inc.                         |[https://www.girdsystems.com/](https://www.girdsystems.com/)                                                    |
+|The MITRE Corporation                      |[https://www.mitre.org/](https://www.mitre.org/)                                                          |
+|Alion Science and Technology               |[https://www.alionscience.com/](https://www.alionscience.com/)                                                   |
+|General Dynamics                           |[https://gdmissionsystems.com/command-and-control](https://gdmissionsystems.com/command-and-control)                                |
+|NIITEK Inc.                                |[https://www.chemring.co.uk/what-we-do/sensors-and-information/counter-explosive-hazard/ied-detection](https://www.chemring.co.uk/what-we-do/sensors-and-information/counter-explosive-hazard/ied-detection)|
+|Oceus Networks Inc.                        |[https://www.oceusnetworks.com/xiphos-micro/](https://www.oceusnetworks.com/xiphos-micro)                                     |
+|SAIC                                       |[https://www.saic.com/](https://www.saic.com)                                                           |
+|Thales Defense & Security Inc              |[https://www.thalesdsi.com/our-services/](https://www.thalesdsi.com/our-services/)                                         |
+|C Speed LLC                                |[http://www.cspeed.com/radar](http://www.cspeed.com/radar)                                                     |
+|Persistent Systems LLC                     |[https://www.persistentsystems.com/](https://www.persistentsystems.com/)                                              |
+|Applied Physical Sciences Corp.            |[https://www.aphysci.com/](https://www.aphysci.com/)                                                        |
+|Ball Aerospace                             |[https://www.ball.com/aerospace/markets-capabilities/markets/defense-intelligence/antenna-systems]([https://www.ball.com/aerospace/markets-capabilities/markets/defense-intelligence/antenna-systems)|
+|IDS Ingegneria dei Sistemi SpA             |[https://www.idscorporation.com/](https://www.idscorporation.com/)                                                 |
+|Silvus Technologies, Inc.                  |[https://silvustechnologies.com/applications/military/](https://silvustechnologies.com/applications/military)                           |
+|TCOM, L.P.                                 |[https://tcomlp.com/aerostat-platforms/strategic-class-aerostat-systems-2/](https://tcomlp.com/aerostat-platforms/strategic-class-aerostat-systems-2/)       |
+|Teledyne Scientific Company                |[http://www.teledyne-si.com/products-and-services](http://www.teledyne-si.com/products-and-services)                                |
